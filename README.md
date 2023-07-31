@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi I'm Atharva ,<br><br>I'm currently working as a Front End Developer , and I'm currently looking to build interactive and Responsive UI's.<br>I excel in conveying technical concepts to both technical and non-technical stakeholders effectively.<br>
+Hi I'm Atharva ,<br><br>I'm currently working as a Front End Developer.<br>
 
 
 ## 🌐 Socials:
