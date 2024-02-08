@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi I'm Atharva ,<br><br>I'm currently working as a Front End Developer.<br>
+Hi I'm Atharva ,<br><br>I'm currently working as a Front End Developer at Weikfields Foods Pvt LTD.<br>
 
 
 ## 🌐 Socials:
